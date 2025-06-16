@@ -1,4 +1,4 @@
-# MapAQ
+# AwsomeMap
 <p align="center">
   <img src="https://github.com/sshaghayeghs/MapAQ/blob/main/Image/airbnb.png" alt="Centered map" width="1000">
 </p>
