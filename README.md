@@ -1,8 +1,22 @@
 # AwsomeMap
-<p align="center">
-  <img src="https://github.com/sshaghayeghs/MapAQ/blob/main/Image/airbnb.png" alt="Centered map" width="1000">
-</p>
 
+## Papers: Urban planning
+
+
+- **[PlanGPT: Enhancing Urban Planning with Tailored Language Model and Efficient Retrieval](https://arxiv.org/pdf/2402.19273)**
+- **[Towards Urban General Intelligence: A Review and Outlook of Urban Foundation Models](https://arxiv.org/pdf/2402.01749)**
+- **[Interactive Smart City Data Visualization Techniques for Urban Planning](https://www.researchgate.net/profile/Yongjie-Li-6/publication/389324618_Interactive_Smart_City_Data_Visualization_Techniques_for_Urban_Planning/links/67bea097207c0c20fa9755fb/Interactive-Smart-City-Data-Visualization-Techniques-for-Urban-Planning.pdf)**
+- **[Adaptive Urban Planning: A Hybrid Framework for Balanced City Development](https://arxiv.org/pdf/2412.15349)**
+- **[URBANPLANBENCH: A COMPREHENSIVE URBAN PLANNING BENCHMARK FOR EVALUATING LARGE LANGUAGE MODELS](https://openreview.net/pdf?id=Dl5JaX7zoN)**
+- **[Planning, Living and Judging: A Multi-agent LLM-based Framework for Cyclical Urban Planning](https://arxiv.org/pdf/2412.20505)**
+- **[UrbanLLM: Autonomous Urban Activity Planning and Management with Large Language Models](https://aclanthology.org/2024.findings-emnlp.98.pdf)**
+- **[Large Language Model for Participatory Urban Planning](https://arxiv.org/pdf/2402.17161)**
+- **[UrbanGPT: Spatio-Temporal Large Language Models](https://arxiv.org/pdf/2403.00813)**
+- **[Urban Computing in the Era of Large Language Models](https://arxiv.org/pdf/2504.02009)**
+- **[CityBench: Evaluating the Capabilities of Large Language Models for Urban Tasks](https://arxiv.org/pdf/2406.13945)**
+
+
+---
 ## 🗺️ Python Libraries for Geospatial and Map Visualizations 
 
 - **[Plotly](https://plotly.com/python/maps/)**  
