@@ -14,6 +14,13 @@
 - **[UrbanGPT: Spatio-Temporal Large Language Models](https://arxiv.org/pdf/2403.00813)**
 - **[Urban Computing in the Era of Large Language Models](https://arxiv.org/pdf/2504.02009)**
 - **[CityBench: Evaluating the Capabilities of Large Language Models for Urban Tasks](https://arxiv.org/pdf/2406.13945)**
+- **[Optimizing and Fine-tuning Large Language Model for Urban Renewal](https://arxiv.org/pdf/2311.15490)**
+- **[Urban Region Pre-training and Prompting: A Graph-based Approach](https://arxiv.org/pdf/2408.05920)**
+- **[TrafficGPT: Viewing, Processing and Interacting with Traffic Foundation Models](https://arxiv.org/pdf/2309.06719)**
+- **[Towards Automated Urban Planning: When Generative and ChatGPT-like AI Meets Urban Planning](https://arxiv.org/pdf/2304.03892)**
+- **[Unlocking Location Intelligence: A Survey from Deep Learning to The LLM Era](https://arxiv.org/pdf/2505.09651)**
+- **[]()**
+- **[]()**
 
 
 ---
