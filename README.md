@@ -19,8 +19,22 @@
 - **[TrafficGPT: Viewing, Processing and Interacting with Traffic Foundation Models](https://arxiv.org/pdf/2309.06719)**
 - **[Towards Automated Urban Planning: When Generative and ChatGPT-like AI Meets Urban Planning](https://arxiv.org/pdf/2304.03892)**
 - **[Unlocking Location Intelligence: A Survey from Deep Learning to The LLM Era](https://arxiv.org/pdf/2505.09651)**
+- **[Deep-Generative-Learning-for-Automated-Urban-Planning Public](https://github.com/wangdongjie100/Deep-Generative-Learning-for-Automated-Urban-Planning)**
+- **[Deep learning for cross-domain data fusion in urban computing: Taxonomy, advances, and outlook](https://www.sciencedirect.com/science/article/pii/S1566253524003841)**
+- **[Dual-stage Flows-based Generative Modeling for Traceable Urban Planning](https://epubs.siam.org/doi/epdf/10.1137/1.9781611978032.42)**
+- **[A framework for urban land use classification by integrating the spatial context of points of interest and graph convolutional neural network method](https://www.sciencedirect.com/science/article/pii/S0198971522000515)**
+- **[Development of an AI advisor for conceptual land use planning](https://www.sciencedirect.com/science/article/pii/S026427512300183X)**
+- **[Urban land use mix and AI: A systematic review](https://www.researchgate.net/profile/Jose-Carpio-Pinedo/publication/392073777_Urban_land_use_mix_and_AI_A_systematic_review/links/6833c56dbe1b507dce90eeed/Urban-land-use-mix-and-AI-A-systematic-review.pdf#page=21&zoom=100,0,0)**
 - **[]()**
 - **[]()**
+- **[]()**
+- **[]()**
+- **[]()**
+
+
+
+
+
 
 
 ---
