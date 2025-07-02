@@ -1,5 +1,10 @@
 # AwsomeMap
-
+## Review paper
+- **[Towards Urban General Intelligence: A Review and Outlook of Urban Foundation Models](https://arxiv.org/pdf/2402.01749)**
+- **[Unlocking Location Intelligence: A Survey from Deep Learning to The LLM Era](https://arxiv.org/pdf/2505.09651)**
+- **[A Survey of Machine Learning for Urban Decision Making: Applications in Planning, Transportation, and Healthcare](https://dl.acm.org/doi/pdf/10.1145/3695986)**
+- **[Urban Foundation Models: A Survey](https://dl.acm.org/doi/10.1145/3637528.3671453)**
+- 
 ## Papers: Urban planning
 
 
@@ -25,7 +30,7 @@
 - **[A framework for urban land use classification by integrating the spatial context of points of interest and graph convolutional neural network method](https://www.sciencedirect.com/science/article/pii/S0198971522000515)**
 - **[Development of an AI advisor for conceptual land use planning](https://www.sciencedirect.com/science/article/pii/S026427512300183X)**
 - **[Urban land use mix and AI: A systematic review](https://www.researchgate.net/profile/Jose-Carpio-Pinedo/publication/392073777_Urban_land_use_mix_and_AI_A_systematic_review/links/6833c56dbe1b507dce90eeed/Urban-land-use-mix-and-AI-A-systematic-review.pdf#page=21&zoom=100,0,0)**
-- **[]()**
+- **[AI-Driven urban planning optimization: A graph neural network and genetic algorithm framework for tackling peak-hour challenges](https://www.sciencedirect.com/science/article/pii/S2210670725002835#fig0003)**
 - **[]()**
 - **[]()**
 - **[]()**
